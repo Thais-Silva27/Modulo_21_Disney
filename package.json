@@ -1,0 +1,31 @@
+{
+  "name": "disney_21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp watch",
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thais-Silva27/Modulo_21_Disney.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thais-Silva27/Modulo_21_Disney/issues"
+  },
+  "homepage": "https://github.com/Thais-Silva27/Modulo_21_Disney#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-build": "^0.5.3",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.56.1"
+  }
+}
